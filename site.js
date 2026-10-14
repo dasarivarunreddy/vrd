@@ -1,10 +1,10 @@
 "use strict";
 /* ===== EDIT THIS BLOCK: all site content lives here ===== */
 const SITE = {
-  domain: "https://varundasari.com", name: "Varun Dasari", full: "Dasari Varun Reddy",
+  domain: "https://varunreddydasari.com", name: "Varun Reddy Dasari", full: "Dasari Varun Reddy",
   headline: "Cybersecurity Engineer | Security Researcher | MSc Cyber Security",
   intro: "I'm an MSc Computer Science for Cyber Security student at Heriot-Watt University in Edinburgh, with a B.Tech in Computer Science and Engineering (Cyber Security). I'm interested in penetration testing, vulnerability assessment and application security.",
-  email: "", github: "dasarivarunreddy", linkedin: "", cvFile: "",   // cvFile e.g. "cv.pdf" once the PDF is in this folder
+  email: "varunreddydasari@outlook.com", github: "dasarivarunreddy", linkedin: "", cvFile: "",   // cvFile e.g. "cv.pdf" once the PDF is in this folder
   researchStatus: "proposed"                                         // proposed | in progress | completed | published
 };
 const SKILLS = {
