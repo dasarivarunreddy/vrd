@@ -13,7 +13,7 @@ jobs:
         with: { node-version: 20 }
       - run: node scripts/fetch-medium.mjs
         env:
-          MEDIUM_USER: YOUR_MEDIUM_USERNAME   # <-- change this, without the @
+          MEDIUM_USER: @varunreddydasari8658   # <-- change this, without the @
       - name: Commit if changed
         run: |
           git config user.name "portfolio-bot"
